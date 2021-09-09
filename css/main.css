@@ -52,7 +52,7 @@ textarea {
 }
 
 body{
-    background-color: thistle;
+    background-color:rgb(197, 195, 190);
     align-items: center;
 }
 
@@ -301,11 +301,24 @@ section.frase .borde {
 
 /*info*/
 
+.info1{
+    width: 50%;
+    height: 150px;
+    text-align: center;
+    background-color: #ccc;
+    margin-left: 20%;
+}
+
 .info{
     width: 100%;
-    height: 200px;
+    height: 300px;
     background-color: #ebeeed;
     text-align: center;
+}
+
+section.info img{
+    width: 220px;
+    height: 200px;
 }
 
 /*seccion contacto*/
